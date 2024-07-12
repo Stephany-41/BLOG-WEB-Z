@@ -1,2 +1,39 @@
 # BLOG-WEB-Z
 Zindua Final Project
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [License](#license)
+
+## About
+
+This project is about what I have learned in HTML and CSS at Zindua School.
+
+## Features
+
+The features of this project include;
+
+- HTML
+- CSS
+
+## Installation
+
+Instructions on how to install and use this project. 
+
+1. Open the repository: `git clone https://github.com/Stephany-41/BLOG-EB-Z.git`
+2. Navigate to the project directory: `cd BLOG-WEB-Z`
+3. Open ` blog-home.html` in your web browser.
+
+
+## License
+
+This project is licensed under STEPHANY AKINYI.
+
+## Acknowledgements
+First, I ould love to thank the Lord Almighty for the stregth and being ith me throughout this project.
+I would also like to give credit to Zindua School for providing me with the knowledge that led me to finish this project.
+I would also like to credit myself for the hard work done, it wasn't easy to reach this far.
+
